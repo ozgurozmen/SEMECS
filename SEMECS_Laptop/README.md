@@ -1,5 +1,7 @@
 # Signer Efficient Multiple-time Elliptic Curve Signature (SEMECS)
 
+These codes are based on https://github.com/Microsoft/FourQlib. You can see the specific semecs code in test/semecs.c file.
+
 ## Dependencies
 
 b2 - https://github.com/BLAKE2/libb2
@@ -14,5 +16,4 @@ After installing the dependencies, go to SEMECS_Laptop folder and run "make ARCH
 
 Please check the licenses for the dependencies before using this code.
 
-These codes are based on https://github.com/Microsoft/FourQlib 
 
